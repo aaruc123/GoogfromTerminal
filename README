@@ -1,5 +1,5 @@
 Python Script to run Google from terminal.
 Presently this script only fetches Google result and show them on terminal.
 You can then input any link number and the link will be opened in your Browser.
-Tested only with Ubantu.
+Tested only with Ubuntu.
 Python version 2.7x 
